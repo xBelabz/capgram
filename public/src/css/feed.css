@@ -1,0 +1,31 @@
+#create-post {
+  background: white;
+  bottom: 0;
+  display: none;
+  min-height: 100vh;
+  overflow-y: scroll;
+  position: fixed;
+  text-align: center;
+  top: 56px;
+  width: 100%;
+  z-index: 1001;
+}
+
+.main-image {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+
+.floating-button {
+  bottom: 0;
+  padding: 30px;
+  position: fixed;
+  right: 0;
+  z-index: 1000;
+}
+
+.input-section {
+  display: block;
+  margin: 10px auto;
+}

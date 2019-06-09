@@ -1,0 +1,20 @@
+{
+  "name": "capgram-project",
+  "version": "1.0.0",
+  "description": "PWA - CapGram Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app"
+  ],
+  "author": "Belabz",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
